@@ -19,5 +19,5 @@
 
 ### Links
 
-- Solution URL: [Solution URL:](https://github.com/Dachi-Papashvili88/nft-card-component)
-- Live Site URL: [Live Site URL:](https://dachi-papashvili88.github.io/nft-card-component/)
+- Solution URL: [](https://github.com/Dachi-Papashvili88/nft-card-component)
+- Live Site URL: [](https://dachi-papashvili88.github.io/nft-card-component/)
