@@ -1,4 +1,5 @@
-## Table of content:
+## Table of contents
+
 - [Overview] (#overview)
   - [Screenshot] (#screenshot)
   - [Links] (#links)
@@ -8,7 +9,9 @@
 - [Author] (#author)
 
 ## Overview
+
 # Screenshot
+
 ![](./screenshot.png)
 
 
