@@ -22,9 +22,9 @@
 
 ## Built with
 
--Semantic HTML5 markup
--CSS custom properties
--Flexbox
+Semantic HTML5 markup
+- CSS custom properties
+- Flexbox 
 
 ### Useful resources
 
@@ -32,7 +32,6 @@
 
 - [Author](#author)
 - Website - [Dachi Papashvili](https://github.com/Dachi-Papashvili88)
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/yourusername)
 
 
 
