@@ -30,7 +30,7 @@ Semantic HTML5 markup
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - This is one of my favourite resources.
 
-- [Author](#author)
+## Author 
 - Website - [Dachi Papashvili](https://github.com/Dachi-Papashvili88)
 
 
